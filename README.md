@@ -19,6 +19,8 @@ Meu nome é Luis Yamagata, moro no Rio de Janeiro, tenho 34 anos e estou cursand
 
 Desde Outubro de 2024 comecei a estudar programação por conta própria, com cursos online, dos quais tenho certificados. Depois, iniciei esse meu curso (ADS) no SENAC-RJ em Agosto de 2025. E estou adorando esse mundo. Apesar das dificuldades, ainda me deslumbro muito com a programação e o que o computador consegue fazer quando escrevemos código pra ele.
 
+Para a Disciplina de Projeto Integrador I deste semestre eu propus um projeto que pode ou não ser aceito pelos colegas do meu grupo. É o desenvolvimento de um website responsivo para uma sorveteria artesanal da minha cidade que, apesar de ter uma rede social muito boa e bem trabalhada, ainda não tem um site próprio.
+
 ---
 
 ## Atualmente estou aprendendo
