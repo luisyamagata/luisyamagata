@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Meu nome é Luis Yamagata, moro no Rio de Janeiro, tenho 34 anos e estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas. Antes disso estudei Direito, mas não concluí, trabalhei no Direito em um estágio e posteriormente fui efetivado como trainee em uma empresa da área de Direito do Trabalho e Direito Previdenciário. Depois, tive experiências trabalhando fora do mundo corporativo, sendo a mais recente delas em um bar.
 
-Desde Outubro de 2024 comecei a estudar programação por conta própria, com cursos online, dos quais tenho certificados. Depois, iniciei esse meu curso (ADS) no SENAC-RJ em Agosto de 2025. E estou adorando esse mundo. Apesar das dificuldades, ainda me deslumbro muito com a programação e o que o computador consegue fazer quando escrevemos código pra ele.
+Desde Outubro de 2024 comecei a estudar programação por conta própria, com cursos online, dos quais tenho certificados. Depois, iniciei esse meu curso (ADS) em Agosto de 2025. E estou adorando esse mundo. Apesar das dificuldades, ainda me deslumbro muito com a programação e o que o computador consegue fazer quando escrevemos código pra ele.
 
 Para a Disciplina de Projeto Integrador I deste semestre eu propus um projeto que pode ou não ser aceito pelos colegas do meu grupo. É o desenvolvimento de um website responsivo para uma sorveteria artesanal da minha cidade que, apesar de ter uma rede social muito boa e bem trabalhada, ainda não tem um site próprio.
 
