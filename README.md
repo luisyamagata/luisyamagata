@@ -21,7 +21,7 @@ Desde Outubro de 2024 comecei a estudar programação por conta própria, com cu
 
 Para a Disciplina de Projeto Integrador I deste semestre eu propus um projeto que não foi aceito pelos colegas do meu grupo. Era o desenvolvimento de um website responsivo para uma sorveteria artesanal da minha cidade que, apesar de ter uma rede social muito boa e bem trabalhada, ainda não tem um site próprio.
 
-Optamos pelo projeto de um outro colega do nosso grupo que é a criação de um site que será um marketplace visando unir tatuadores que atuam no Brasil e seus potenciais clientes.
+Optamos pelo projeto de um outro colega do nosso grupo que é a criação de um site que será um marketplace visando unir tatuadores que atuam no Brasil e seus potenciais clientes. Para ele, realizamos diversas pesquisas, como netnografia, e um questionário que enviamos para potenciais clientes e diversos tatuadores para esclarecer dúvidas que tínhamos em relação ao mercado e ao projeto. Realizamos também netnografia e criamos duas personas, uma de cliente e uma de tatuadora. Apresentamos tudo isso para ser avaliado na disciplina. O próximo passo, agora, é criar o protótipo do nosso website.
 
 ---
 
